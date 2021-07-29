@@ -141,14 +141,6 @@ class _MyHomePageState extends State<MyHomePage> {
                     width: 100,
                     height: 100,
                   ),
-                ),
-                Padding(
-                  padding: const EdgeInsets.all(2.0),
-                  child: Container(
-                    color: Colors.grey,
-                    height: 100,
-                    width: 100,
-                  ),
                 )
               ],
             ),
